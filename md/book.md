@@ -1,20 +1,3 @@
----
-Pr-id: PublishingLab
-P-id: PublishingLab How To
-A-id: 10
-Type: article
-Book-type: anthology
-Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
-Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   epub, pandoc, conversion, hybrid, workflow, publishing, arts publishing, styles, css, markdown, design, ebooks, epub3, GitHub
-Rights: CC BY-NC 4.0
-...
 <div class="pagetitle">How to: Design Solutions for Digital Publishing</div>
 
 # How to: Design Solutions for Digital Publishing
